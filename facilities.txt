@@ -1,0 +1,4 @@
+UCMed,Talisay,09876543210
+Maayo,Mandaue,09546624767
+Chong hua,Mandaue,0945246425
+Ace Hospital,Basak,Pardo,09525235136

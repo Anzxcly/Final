@@ -1,0 +1,7 @@
+1256,PPE kit,170,2097-09-03,Equipment
+23434,Syringe,100,2090-05-06,Equipment
+345456,Flu Vaccine,1009,2097-11-07,Vaccine
+46787,Bandage,590,2080-03-06,Kit
+67876,Biogesic,500,2080-12-30,Medicine
+6578,Bioflu,200,2086-03-01,Medicine
+34467,Cast,600,2070-12-4,Equipment
